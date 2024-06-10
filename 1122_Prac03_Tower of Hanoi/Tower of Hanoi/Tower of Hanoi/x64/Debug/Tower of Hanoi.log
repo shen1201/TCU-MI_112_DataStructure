@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+D:\Program\大三下\資結\資結所有上機\1122_Prac03_Tower of Hanoi\Tower of Hanoi\Tower of Hanoi\FileName.cpp(21,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Tower of Hanoi.vcxproj -> D:\Program\大三下\資結\資結所有上機\1122_Prac03_Tower of Hanoi\Tower of Hanoi\x64\Debug\Tower of Hanoi.exe

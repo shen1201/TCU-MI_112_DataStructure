@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Program\\\u5927\u4E09\u4E0B\\\u8CC7\u7D50\\\u8CC7\u7D50\u6240\u6709\u4E0A\u6A5F\\1122_Prac03_Tower of Hanoi\\Tower of Hanoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E37E6FBE-CD7E-4431-A295-012439B0D9E8}|Tower of Hanoi\\Tower of Hanoi.vcxproj|D:\\Program\\\u5927\u4E09\u4E0B\\\u8CC7\u7D50\\\u8CC7\u7D50\u6240\u6709\u4E0A\u6A5F\\1122_Prac03_Tower of Hanoi\\Tower of Hanoi\\Tower of Hanoi\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E37E6FBE-CD7E-4431-A295-012439B0D9E8}|Tower of Hanoi\\Tower of Hanoi.vcxproj|solutionrelative:Tower of Hanoi\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "D:\\Program\\\u5927\u4E09\u4E0B\\\u8CC7\u7D50\\\u8CC7\u7D50\u6240\u6709\u4E0A\u6A5F\\1122_Prac03_Tower of Hanoi\\Tower of Hanoi\\Tower of Hanoi\\FileName.cpp",
+              "RelativeDocumentMoniker": "Tower of Hanoi\\FileName.cpp",
+              "ToolTip": "D:\\Program\\\u5927\u4E09\u4E0B\\\u8CC7\u7D50\\\u8CC7\u7D50\u6240\u6709\u4E0A\u6A5F\\1122_Prac03_Tower of Hanoi\\Tower of Hanoi\\Tower of Hanoi\\FileName.cpp",
+              "RelativeToolTip": "Tower of Hanoi\\FileName.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T09:21:13.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

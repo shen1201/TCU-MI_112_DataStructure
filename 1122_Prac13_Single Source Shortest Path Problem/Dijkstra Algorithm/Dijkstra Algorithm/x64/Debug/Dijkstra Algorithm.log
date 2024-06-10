@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+D:\Program\大三下\資結\資結所有上機\1122_Prac13_Dijkstra Algorithm_Graphs\Dijkstra Algorithm\Dijkstra Algorithm\FileName.cpp(125,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program\大三下\資結\資結所有上機\1122_Prac13_Dijkstra Algorithm_Graphs\Dijkstra Algorithm\Dijkstra Algorithm\FileName.cpp(131,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program\大三下\資結\資結所有上機\1122_Prac13_Dijkstra Algorithm_Graphs\Dijkstra Algorithm\Dijkstra Algorithm\FileName.cpp(137,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Dijkstra Algorithm.vcxproj -> D:\Program\大三下\資結\資結所有上機\1122_Prac13_Dijkstra Algorithm_Graphs\Dijkstra Algorithm\x64\Debug\Dijkstra Algorithm.exe

@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+D:\Program\大三下\資結\資結所有上機\1122_Prac13_Single Source Shortest Path Problem\kueikui_way\kueikui_way\FileName.cpp(19,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program\大三下\資結\資結所有上機\1122_Prac13_Single Source Shortest Path Problem\kueikui_way\kueikui_way\FileName.cpp(24,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program\大三下\資結\資結所有上機\1122_Prac13_Single Source Shortest Path Problem\kueikui_way\kueikui_way\FileName.cpp(29,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  kueikui_way.vcxproj -> D:\Program\大三下\資結\資結所有上機\1122_Prac13_Single Source Shortest Path Problem\kueikui_way\x64\Debug\kueikui_way.exe

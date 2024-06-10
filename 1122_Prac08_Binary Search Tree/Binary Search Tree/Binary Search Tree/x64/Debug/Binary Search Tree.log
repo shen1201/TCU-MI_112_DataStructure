@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+D:\Program\大三下\資結\資結所有上機\1122_Prac08_Binary Search Tree\Binary Search Tree\Binary Search Tree\FileName.cpp(17,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program\大三下\資結\資結所有上機\1122_Prac08_Binary Search Tree\Binary Search Tree\Binary Search Tree\FileName.cpp(27,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program\大三下\資結\資結所有上機\1122_Prac08_Binary Search Tree\Binary Search Tree\Binary Search Tree\FileName.cpp(51,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program\大三下\資結\資結所有上機\1122_Prac08_Binary Search Tree\Binary Search Tree\Binary Search Tree\FileName.cpp(54,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Binary Search Tree.vcxproj -> D:\Program\大三下\資結\資結所有上機\1122_Prac08_Binary Search Tree\Binary Search Tree\x64\Debug\Binary Search Tree.exe

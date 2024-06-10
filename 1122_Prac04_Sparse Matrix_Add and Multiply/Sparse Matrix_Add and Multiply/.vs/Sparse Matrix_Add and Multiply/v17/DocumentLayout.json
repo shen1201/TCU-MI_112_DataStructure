@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Program\\\u5927\u4E09\u4E0B\\\u8CC7\u7D50\\\u8CC7\u7D50\u6240\u6709\u4E0A\u6A5F\\1122_Prac04_Sparse Matrix_Add and Multiply\\Sparse Matrix_Add and Multiply\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D22F42B9-3000-431C-A794-5A7AFFD64362}|Sparse Matrix_Add and Multiply\\Sparse Matrix_Add and Multiply.vcxproj|D:\\Program\\\u5927\u4E09\u4E0B\\\u8CC7\u7D50\\\u8CC7\u7D50\u6240\u6709\u4E0A\u6A5F\\1122_Prac04_Sparse Matrix_Add and Multiply\\Sparse Matrix_Add and Multiply\\Sparse Matrix_Add and Multiply\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D22F42B9-3000-431C-A794-5A7AFFD64362}|Sparse Matrix_Add and Multiply\\Sparse Matrix_Add and Multiply.vcxproj|solutionrelative:Sparse Matrix_Add and Multiply\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "D:\\Program\\\u5927\u4E09\u4E0B\\\u8CC7\u7D50\\\u8CC7\u7D50\u6240\u6709\u4E0A\u6A5F\\1122_Prac04_Sparse Matrix_Add and Multiply\\Sparse Matrix_Add and Multiply\\Sparse Matrix_Add and Multiply\\FileName.cpp",
+              "RelativeDocumentMoniker": "Sparse Matrix_Add and Multiply\\FileName.cpp",
+              "ToolTip": "D:\\Program\\\u5927\u4E09\u4E0B\\\u8CC7\u7D50\\\u8CC7\u7D50\u6240\u6709\u4E0A\u6A5F\\1122_Prac04_Sparse Matrix_Add and Multiply\\Sparse Matrix_Add and Multiply\\Sparse Matrix_Add and Multiply\\FileName.cpp",
+              "RelativeToolTip": "Sparse Matrix_Add and Multiply\\FileName.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T09:23:47.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Program\\\u5927\u4E09\u4E0B\\\u8CC7\u7D50\\\u8CC7\u7D50\u6240\u6709\u4E0A\u6A5F\\1122_Prac02_Ackermann function\\Ackermann function\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C82FD14F-3DA3-47C9-8A92-F1021A6FEA45}|Ackermann function\\Ackermann function.vcxproj|D:\\Program\\\u5927\u4E09\u4E0B\\\u8CC7\u7D50\\\u8CC7\u7D50\u6240\u6709\u4E0A\u6A5F\\1122_Prac02_Ackermann function\\Ackermann function\\Ackermann function\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C82FD14F-3DA3-47C9-8A92-F1021A6FEA45}|Ackermann function\\Ackermann function.vcxproj|solutionrelative:Ackermann function\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "D:\\Program\\\u5927\u4E09\u4E0B\\\u8CC7\u7D50\\\u8CC7\u7D50\u6240\u6709\u4E0A\u6A5F\\1122_Prac02_Ackermann function\\Ackermann function\\Ackermann function\\FileName.cpp",
+              "RelativeDocumentMoniker": "Ackermann function\\FileName.cpp",
+              "ToolTip": "D:\\Program\\\u5927\u4E09\u4E0B\\\u8CC7\u7D50\\\u8CC7\u7D50\u6240\u6709\u4E0A\u6A5F\\1122_Prac02_Ackermann function\\Ackermann function\\Ackermann function\\FileName.cpp",
+              "RelativeToolTip": "Ackermann function\\FileName.cpp",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T09:18:33.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

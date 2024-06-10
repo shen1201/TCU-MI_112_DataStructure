@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Kruskal’s Algorithm_2", "Kruskal’s Algorithm_2\Kruskal’s Algorithm_2.vcxproj", "{0E7DA5FA-3EAD-4FED-B769-A6643587406E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E7DA5FA-3EAD-4FED-B769-A6643587406E}.Debug|x64.ActiveCfg = Debug|x64
+		{0E7DA5FA-3EAD-4FED-B769-A6643587406E}.Debug|x64.Build.0 = Debug|x64
+		{0E7DA5FA-3EAD-4FED-B769-A6643587406E}.Debug|x86.ActiveCfg = Debug|Win32
+		{0E7DA5FA-3EAD-4FED-B769-A6643587406E}.Debug|x86.Build.0 = Debug|Win32
+		{0E7DA5FA-3EAD-4FED-B769-A6643587406E}.Release|x64.ActiveCfg = Release|x64
+		{0E7DA5FA-3EAD-4FED-B769-A6643587406E}.Release|x64.Build.0 = Release|x64
+		{0E7DA5FA-3EAD-4FED-B769-A6643587406E}.Release|x86.ActiveCfg = Release|Win32
+		{0E7DA5FA-3EAD-4FED-B769-A6643587406E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C284D0B7-3964-4B5D-BF9A-A74DCF20B8A3}
+	EndGlobalSection
+EndGlobal

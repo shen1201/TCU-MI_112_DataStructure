@@ -1,0 +1,19 @@
+﻿  FileName.cpp
+D:\Program\大三下\資結\資結所有上機\1122_Prac05_Stack\Stack_Infix_Postfix\Stack_Infix_Postfix\FileName.cpp(16,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program\大三下\資結\資結所有上機\1122_Prac05_Stack\Stack_Infix_Postfix\Stack_Infix_Postfix\FileName.cpp(67,14): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\Program\大三下\資結\資結所有上機\1122_Prac05_Stack\Stack_Infix_Postfix\Stack_Infix_Postfix\FileName.cpp(81,16): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\Program\大三下\資結\資結所有上機\1122_Prac05_Stack\Stack_Infix_Postfix\Stack_Infix_Postfix\FileName.cpp(78,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program\大三下\資結\資結所有上機\1122_Prac05_Stack\Stack_Infix_Postfix\Stack_Infix_Postfix\FileName.cpp(79,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program\大三下\資結\資結所有上機\1122_Prac05_Stack\Stack_Infix_Postfix\Stack_Infix_Postfix\FileName.cpp(80,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program\大三下\資結\資結所有上機\1122_Prac05_Stack\Stack_Infix_Postfix\Stack_Infix_Postfix\FileName.cpp(86,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program\大三下\資結\資結所有上機\1122_Prac05_Stack\Stack_Infix_Postfix\Stack_Infix_Postfix\FileName.cpp(202,13): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\Program\大三下\資結\資結所有上機\1122_Prac05_Stack\Stack_Infix_Postfix\Stack_Infix_Postfix\FileName.cpp(213,15): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\Program\大三下\資結\資結所有上機\1122_Prac05_Stack\Stack_Infix_Postfix\Stack_Infix_Postfix\FileName.cpp(254,13): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\Program\大三下\資結\資結所有上機\1122_Prac05_Stack\Stack_Infix_Postfix\Stack_Infix_Postfix\FileName.cpp(259,2): warning C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strrev. See online help for details.
+D:\Program\大三下\資結\資結所有上機\1122_Prac05_Stack\Stack_Infix_Postfix\Stack_Infix_Postfix\FileName.cpp(315,16): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\Program\大三下\資結\資結所有上機\1122_Prac05_Stack\Stack_Infix_Postfix\Stack_Infix_Postfix\FileName.cpp(298,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program\大三下\資結\資結所有上機\1122_Prac05_Stack\Stack_Infix_Postfix\Stack_Infix_Postfix\FileName.cpp(311,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program\大三下\資結\資結所有上機\1122_Prac05_Stack\Stack_Infix_Postfix\Stack_Infix_Postfix\FileName.cpp(314,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program\大三下\資結\資結所有上機\1122_Prac05_Stack\Stack_Infix_Postfix\Stack_Infix_Postfix\FileName.cpp(460,15): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\Program\大三下\資結\資結所有上機\1122_Prac05_Stack\Stack_Infix_Postfix\Stack_Infix_Postfix\FileName.cpp(507,13): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  Stack_Infix_Postfix.vcxproj -> D:\Program\大三下\資結\資結所有上機\1122_Prac05_Stack\Stack_Infix_Postfix\x64\Debug\Stack_Infix_Postfix.exe
